@@ -1,2 +1,2 @@
 # htmlcss
-html ja css kouluptojektit
+html ja css kouluprojektit
